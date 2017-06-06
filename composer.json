@@ -1,0 +1,22 @@
+{
+  "name": "mozgovoyandrey\yii2\authclient",
+  "description": "Odnoklassniki extenion for using via yii2-authclient",
+  "keywords": ["yii2", "authclient", "oauth", "odnoklassniki"],
+  "homepage": "http://github.com/mozgovoyandrey/yii2-authclient-odnoklassniki",
+  "require": {
+    "yiisoft/yii2-authclient": "~2.0@dev"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Mozgovoy",
+      "email": "mozgovoy.andrey@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mozgovoyandrey\\yii2\\authclient\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
